@@ -2,7 +2,7 @@
 ## Matéria
 - Programação Orientada a Objetos
 
-## Autore
+## Autores
 - Christoffer de Paula Oliveira
 - Paulo Henrique Tobias
 - Millas Násser
